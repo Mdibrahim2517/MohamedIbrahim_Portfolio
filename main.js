@@ -1,3 +1,4 @@
+import 'animate.css'
 var typed=new Typed(".text",
 {
     strings:["Web Developer","Java Developer","Gamer"],
